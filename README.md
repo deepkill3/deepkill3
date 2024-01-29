@@ -1,7 +1,7 @@
 Olá! Me chamo Mateus Santos
 
 - 🔭 Atualmente sou entregador de Ifood
-- 🌱 Eu estou aprendendo C++
+- 🌱 Eu estou aprendendo C# e Python
 - 👯 Estou procurando pessoas com conhecimentos em Pixel art
 - 🤔 Estou precisando de ajuda em pixel art
 - 📫 Contate-me: mateussabreu2507@gmail.com
